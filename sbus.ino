@@ -1,3 +1,6 @@
+/* Source: https://quadmeup.com/generate-s-bus-with-arduino-in-a-simple-way/ */
+
+
 #define RC_CHANNEL_MIN 990
 #define RC_CHANNEL_MAX 2010
 
